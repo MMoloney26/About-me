@@ -1,5 +1,7 @@
-# About-me
-A little information about myself
+# Breakfast
 
-I am currently a Student at Staffordshire University studying Games Development and enjoy coding/animating.
-I've made a few personal projects using Blender and C++/# where I've made renders, animations and small mini games.
+My morning breakfast consisted of cereals, milk and coffee, pretty standard breakfast...
+
+LinkedIn:
+https://www.linkedin.com/in/michael-moloney-180aa61b0/
+
