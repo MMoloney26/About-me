@@ -1,6 +1,6 @@
-# Breakfast
+# Hi, I'm Michael,
 
-My morning breakfast consisted of cereals, milk and coffee, pretty standard breakfast...
+I'm currently studying at Staffordshire University, working to develop my C++ and academic skills in order to start my journey on gaining a career in the games industry. 
 
 LinkedIn:
 https://www.linkedin.com/in/michael-moloney-180aa61b0/
