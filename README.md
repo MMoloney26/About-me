@@ -4,11 +4,11 @@ I'm currently studying at Staffordshire University, working to develop my C++ an
 
 I enjoy researching biology and diffierent code languages
 * I'm currently learning
-** Japanese
-** Polish
-** C++
-** C#
-** Blender
+* * Japanese
+* * Polish
+* * C++
+* * C#
+* * Blender
 LinkedIn:
 https://www.linkedin.com/in/michael-moloney-180aa61b0/
 
